@@ -5,7 +5,6 @@ Open RubyDoc gem documentation
 ## Installation
 
 ```
-  git clone ~/.local/share/albert/org.albert.extension.python/modules
+  git clone git@github.com:baelter/albert-rubydoc.git ~/.local/share/albert/org.albert.extension.python/modules
   pip install lxml
-  
 ```
